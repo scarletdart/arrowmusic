@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrow Music</title>
+    <description>From the Heart of South Devon</description>
+    <link>https://arrowmusic.co.uk//</link>
+    <atom:link href="https://arrowmusic.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 09 Mar 2018 21:40:56 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Mar 2018 21:40:56 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;h3 id=&quot;welcome&quot;&gt;Welcome&lt;/h3&gt;
+
+&lt;p&gt;Welcome to our new site.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Mar 2018 20:00:00 +0000</pubDate>
+        <link>https://arrowmusic.co.uk//welcome</link>
+        <guid isPermaLink="true">https://arrowmusic.co.uk//welcome</guid>
+        
+        <category>test</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Media</title>
+        <description>&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
+
+&lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;image-with-heading&quot;&gt;Image With Heading&lt;/h3&gt;
+&lt;figure class=&quot;ampstart-image-with-heading  m0 relative mb4&quot;&gt;
+  &lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+  &lt;figcaption class=&quot;absolute right-0 bottom-0 left-0&quot;&gt;
+    &lt;header class=&quot;ampstart-image-heading px2 py2 line-height-4&quot;&gt;
+      &lt;h1&gt;Shiva&lt;/h1&gt;
+    &lt;/header&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;image-with-caption&quot;&gt;Image With Caption&lt;/h3&gt;
+&lt;figure class=&quot;ampstart-image-with-caption m0 relative mb4&quot;&gt;
+  &lt;amp-img src=&quot;/assets/images/shiva.jpg&quot; width=&quot;656&quot; height=&quot;400&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot;&gt;&lt;/amp-img&gt;
+  &lt;figcaption class=&quot;h5 mt1 px3&quot;&gt;
+    &lt;p&gt;Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.
+&lt;span class=&quot;ampstart-image-credit block bold&quot;&gt;
+Taken by
+&lt;a href=&quot;#&quot; role=&quot;author&quot;&gt;Parvati&lt;/a&gt;
+&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;amp-youtube width=&quot;480&quot; height=&quot;270&quot; layout=&quot;responsive&quot; data-videoid=&quot;lBTCB7yLs8Y&quot;&gt;
+&lt;/amp-youtube&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
+
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;amp-audio width=&quot;auto&quot; height=&quot;50&quot; src=&quot;https://ia801402.us.archive.org/16/items/EDIS-SRP-0197-06/EDIS-SRP-0197-06.mp3&quot;&gt;
+  &lt;div fallback=&quot;&quot;&gt;
+    &lt;p&gt;Your browser doesn’t support HTML5 audio&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/amp-audio&gt;
+</description>
+        <pubDate>Mon, 27 Nov 2017 04:00:00 +0000</pubDate>
+        <link>https://arrowmusic.co.uk//media</link>
+        <guid isPermaLink="true">https://arrowmusic.co.uk//media</guid>
+        
+        <category>media</category>
+        
+        <category>test</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
